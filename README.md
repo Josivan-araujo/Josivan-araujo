@@ -1,7 +1,7 @@
 # Josivan Araújo
 
-Olá! 👋  
-Sou um apaixonado por tecnologia e estudante autodidata, em transição para a área de programação. Minha principal dedicação está em desenvolver habilidades em lógica de programação e na linguagem Java.
+*Olá! 👋  
+Sou um apaixonado por tecnologia e um estudante autodidata, em transição para a área de programação. Minha principal dedicação está em desenvolver habilidades em lógica de programação e na linguagem Java.*
 
 ## Sobre mim
 
@@ -12,14 +12,14 @@ Sou um apaixonado por tecnologia e estudante autodidata, em transição para a �
 
 ## Tecnologias e Ferramentas
 
-- **Lógica de Programação**
-- **Java (básico/intermediário)**
-- HTML
-- CSS
-- JavaScript
-- Git & GitHub
-- VS Code
-- Figma
+- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+- ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
 
 ## Programas e Projetos em Destaque
 
@@ -37,10 +37,12 @@ Sou um apaixonado por tecnologia e estudante autodidata, em transição para a �
 
 ## Redes Sociais
 
-- [LinkedIn](https://www.linkedin.com/in/josivan-araujo-dev)
-- [GitHub](https://github.com/Josivan-araujo)
-- [Instagram](https://instagram.com/eujosivanaraujo)
-
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josivan-araujo-dev/)
+- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Josivan-araujo)
+- [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:josivanaraujodesantana@gmail.com)
+- [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eujosivanaraujo/)
+- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5581997982898)
+  
 ## Próximos Passos
 
 Em breve, novos projetos em Java e algoritmos serão adicionados aqui!  
