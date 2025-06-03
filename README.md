@@ -14,6 +14,9 @@ Sou um apaixonado por tecnologia e estudante autodidata, em transição para a �
 
 - **Lógica de Programação**
 - **Java (básico/intermediário)**
+- HTML
+- CSS
+- JavaScript
 - Git & GitHub
 - VS Code
 - Figma
