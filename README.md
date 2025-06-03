@@ -23,6 +23,12 @@ Sou um apaixonado por tecnologia e estudante autodidata, em transição para a �
 
 ## Programas e Projetos em Destaque
 
+**Contribuição Open Source:**
+
+- 🏆 Recentemente realizei uma contribuição para um projeto open source no GitHub da [DIO](https://www.dio.me/), fortalecendo ainda mais minha experiência prática e conhecimento com o GitHub.
+
+- [Fok de Contribuição no GitHub da DIO:](https://github.com/Josivan-araujo/dio-lab-open-source/)
+
 - **DevLinks:** Programa gratuito e exclusivo promovido pela [Rocketseat](https://www.rocketseat.com.br/) para ensino de tecnologias WEB. O DevLinks proporcionou conhecimentos práticos em desenvolvimento web, organização de links pessoais e uso de HTML, CSS, JavaScript, Git, GitHub e Figma.  
   - Projeto finalizado: [DevLinks - Visualizar](https://maykbrito.github.io/devlinks/)
 
